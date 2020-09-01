@@ -8,4 +8,4 @@ Instructions:
 - We will conduct a peer-review process and will receive feedback on Week 8 presubmission on Week 9
 - You will then have 4 weeks to work on the full assignment. I will be monitoring your repositories and provide ongoing feedback on your progress
 - Final submission on Week 12 is for all 7 sections of the report
-- Detailed instructions on the assignment can be found [https://docs.google.com/document/d/1CACNZrnxHwKRV9D2BBFyFUGUoG3DUYb1kzPRG8lriHk/edit?usp=sharing][here]
+- Detailed instructions on the assignment can be found [here](https://docs.google.com/document/d/1CACNZrnxHwKRV9D2BBFyFUGUoG3DUYb1kzPRG8lriHk/edit?usp=sharing)
